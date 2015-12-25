@@ -442,6 +442,10 @@
             <id>ossrh</id>
             <url>https://oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
+        <site>
+          <id>spotify.github.io/apollo</id>
+          <url>http://spotify.github.io/apollo/</url>
+        </site>
     </distributionManagement>
 
     <developers>
